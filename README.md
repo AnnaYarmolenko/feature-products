@@ -1,1 +1,1 @@
-# feature-products
+# goit-markup-hw-02
